@@ -5,5 +5,5 @@ FT-991/FT-991A status monitor interface with protection lowering TX power if HI 
 
 Dumps and restores the radio configuration and memories with --backup and --restore parameters.
 
-TODO:
+*TODO:*
 - Develop Graphical interface to FTSbr
